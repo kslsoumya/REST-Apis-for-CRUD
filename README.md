@@ -5,7 +5,7 @@ Apis for
 creating the blog ,
 deleting the blog,
 editing thr blog,
-reading the blog : byAuthor, byCategory ,byId
-Updating the view of blog
+reading the blog : byAuthor, byCategory ,byId,
+Updating the views of blog
 
 are designed using NodeJS and MongoDB,Mongoose.
